@@ -17,3 +17,8 @@ npm install shadcn-ui
     "lucide-react": "latest"
   }
 }
+{
+  "dependencies": {
+    "@shadcn/ui": "^latest"
+  }
+}
