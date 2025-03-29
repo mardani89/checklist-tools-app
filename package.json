@@ -22,3 +22,7 @@ npm install shadcn-ui
     "@shadcn/ui": "^latest"
   }
 }
+npm uninstall shadcn/ui
+npm install @shadcn/ui
+npm run dev
+
